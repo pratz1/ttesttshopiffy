@@ -1,0 +1,9 @@
+production:
+  password: 24d20f890d17766bc0ac30a72925485e
+  theme_id: "11800936511"
+  store: ttesttshopiffy.myshopify.com
+  readonly: true
+development:
+  password: 24d20f890d17766bc0ac30a72925485e
+  theme_id: "11120312383"
+  store: ttesttshopiffy.myshopify.com
